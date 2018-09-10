@@ -61,6 +61,16 @@ body {
 	display: inline-block;
 }
 
+#design-projects .tab img {
+	padding-right: 2%;
+	padding-left: 0%;
+}
+
+#design-projects .tab div {
+	padding-left: 2%;
+	padding-right: 4%;
+}
+
 h1, h3 {
 	font-family: 'Raleway', monospace;
 	font-weight: 700;
